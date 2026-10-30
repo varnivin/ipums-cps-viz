@@ -45,4 +45,4 @@ Sarah Flood, Miriam King, Renae Rodgers, Steven Ruggles, J. Robert Warren, Danie
 
 ## Author
 
-[Your Name] — MSBA, University of Louisville
+Nivin Varghese — MSBA, University of Louisville
